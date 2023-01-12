@@ -1,4 +1,4 @@
-<img src="https://www.splendux.com/images/imageback2.png" />
+<img src="https://www.splendux.com/images/back.gif" />
 <h1 align="center">Hi 👋, I'm Mohamed Saied</h1>
 <h3 align="center">A FrontEnd Software Development Engineer</h3>
 
